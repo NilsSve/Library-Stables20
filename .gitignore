@@ -29,3 +29,4 @@ AppHtml/*
 /*.ini
 /*.log
 
+LoginEncryptionKey.inc
